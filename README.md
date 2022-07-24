@@ -4,6 +4,8 @@ Image classification is one of the most used cases when we think about Artificia
 
 In this blog post, I will guide you step-by-step to develop an Image Classification model using TFLite Model Maker. You can read more about it [here](https://www.tensorflow.org/lite/api_docs/python/tflite_model_maker).
 
+[Youtube video](https://youtu.be/oy0kiszYcw0).
+
 ## Requirements
 ---
 To follow this blog end-to-end, you need to set up a new environment on your computer. However, it is not compulsory to use your local machine, you can train a model on, let's say [Google Colab](https://research.google.com/colaboratory/) and download the trained model to server the requests for classification [it is out of the scope for this blog, maybe in my next blog I will cover this].
